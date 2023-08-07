@@ -1,6 +1,7 @@
 **/axolotl.egg-info
 configs
 last_run_prepared
+qlora-out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
